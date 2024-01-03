@@ -41,7 +41,7 @@ def record(userType: str, input_no: int, id_counters: dict):
 
     return info_list
 
-# Task - make it dynamic
+
 user_types = ["Student", "HR", "Teacher"]
 
 all_records = {}  # Dictionary to store records for each user type
